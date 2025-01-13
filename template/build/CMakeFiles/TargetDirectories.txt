@@ -1,0 +1,3 @@
+/home/salinoia/ModernCpp/template/build/CMakeFiles/MyArrayTest.dir
+/home/salinoia/ModernCpp/template/build/CMakeFiles/edit_cache.dir
+/home/salinoia/ModernCpp/template/build/CMakeFiles/rebuild_cache.dir

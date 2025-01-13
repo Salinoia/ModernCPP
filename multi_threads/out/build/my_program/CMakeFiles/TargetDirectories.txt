@@ -1,0 +1,3 @@
+/home/salinoia/ModernCpp/multi_threads/out/build/my_program/CMakeFiles/my_program.dir
+/home/salinoia/ModernCpp/multi_threads/out/build/my_program/CMakeFiles/edit_cache.dir
+/home/salinoia/ModernCpp/multi_threads/out/build/my_program/CMakeFiles/rebuild_cache.dir

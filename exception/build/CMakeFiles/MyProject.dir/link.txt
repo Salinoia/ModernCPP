@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/MyProject.dir/arithmetic_exception.cpp.o -o MyProject

@@ -1,0 +1,3 @@
+/home/salinoia/ModernCpp/auto_keyword/build/CMakeFiles/MYPROJECT.dir
+/home/salinoia/ModernCpp/auto_keyword/build/CMakeFiles/edit_cache.dir
+/home/salinoia/ModernCpp/auto_keyword/build/CMakeFiles/rebuild_cache.dir

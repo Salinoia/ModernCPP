@@ -1,0 +1,3 @@
+/home/salinoia/ModernCpp/exception/build/CMakeFiles/MyProject.dir
+/home/salinoia/ModernCpp/exception/build/CMakeFiles/edit_cache.dir
+/home/salinoia/ModernCpp/exception/build/CMakeFiles/rebuild_cache.dir
