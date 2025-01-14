@@ -14,7 +14,8 @@ private:
 template<typename T>
 const T& Test<T>::operator[](size_t index) const {
     if (index >= data.size()) {
-        throw std::out_of_range("Accessing elements beyond valid range in a template class.");
+        // throw std::out_of_range("Accessing elements beyond valid range in a template class.");
+        throw 42;
     }
     return data[index];
 }
@@ -40,6 +41,9 @@ int main() {
     }
     catch (const std::out_of_range& e) {
         std::cout << "Exception caught: " << e.what() << std::endl;
+    }
+    catch(...){
+        std::cout << "That's some kind of humor." << std::endl;
     }
     /*
         Element at index 0: 10
