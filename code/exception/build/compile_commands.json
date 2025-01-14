@@ -1,8 +1,8 @@
 [
 {
-  "directory": "/home/salinoia/ModernCpp/exception/build",
-  "command": "/usr/bin/g++   -g -std=gnu++20 -g -o CMakeFiles/MyProject.dir/arithmetic_exception.cpp.o -c /home/salinoia/ModernCpp/exception/arithmetic_exception.cpp",
-  "file": "/home/salinoia/ModernCpp/exception/arithmetic_exception.cpp",
-  "output": "CMakeFiles/MyProject.dir/arithmetic_exception.cpp.o"
+  "directory": "/home/salinoia/ModernCpp/code/exception/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -g -o CMakeFiles/MyProject.dir/boundary_exception.cpp.o -c /home/salinoia/ModernCpp/code/exception/boundary_exception.cpp",
+  "file": "/home/salinoia/ModernCpp/code/exception/boundary_exception.cpp",
+  "output": "CMakeFiles/MyProject.dir/boundary_exception.cpp.o"
 }
 ]

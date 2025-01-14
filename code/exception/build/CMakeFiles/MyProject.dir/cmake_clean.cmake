@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MyProject.dir/arithmetic_exception.cpp.o"
-  "CMakeFiles/MyProject.dir/arithmetic_exception.cpp.o.d"
+  "CMakeFiles/MyProject.dir/boundary_exception.cpp.o"
+  "CMakeFiles/MyProject.dir/boundary_exception.cpp.o.d"
   "MyProject"
   "MyProject.pdb"
 )

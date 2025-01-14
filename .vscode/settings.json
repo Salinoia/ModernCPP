@@ -66,5 +66,5 @@
         "__nullptr": "cpp",
         "unordered_set": "cpp"
     },
-    "cmake.sourceDirectory": "/home/salinoia/ModernCpp/multi_threads"
+    "cmake.sourceDirectory": "/home/salinoia/ModernCpp/code/exception"
 }

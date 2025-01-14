@@ -130,8 +130,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/salinoia/ModernCpp/exception/build",
-		"source" : "/home/salinoia/ModernCpp/exception"
+		"build" : "/home/salinoia/ModernCpp/code/exception/build",
+		"source" : "/home/salinoia/ModernCpp/code/exception"
 	},
 	"version" : 
 	{
